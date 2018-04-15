@@ -12,7 +12,7 @@ Each of these <em>descriptive statistics</em> can be used as <em>inferential sta
 <em>Inferencial statistics</em> are used to build conjectures within hypothesis tests or to build confidence intervals. 
 There are a variety of distributions, but the <em>Central Limit Theorem</em> allows us to model even small data sets in terms of another distribution.
 
-Hypothesis test are the most powerful mechanism one can use to creatively solve problems within statistics. From simple data, to
+<strong>Hypothesis test are the most powerful mechanism one can use to creatively solve problems within statistics</strong>. From simple data, to
 very complex data with many factors with many levels, multiple regression or non-linear regression, and analysis of variance, hypothesis testing
 gives you the ability to build conjectures and make strong statements with <em>statistical signifcance</em>.
 
